@@ -7,11 +7,37 @@
 ###
 
 <p align="left">
-**🔙:Developed the first health center website in Dire Dawa, Ethiopia.Goro Health Center Website:**<br>
-**🔭:Working on a website for our community church, Saint Michael Church in Dire Dawa, Ethiopia.coming soon:**<br>
-**📚:I'm currently learning Improving Android development skills.:**</p>
+**🔙:Developed the first health center website in Dire Dawa, Ethiopia.[Goro Health Center Website](https://www.ghcdd.gov.et/)**<br>
+**🔭:Working on a website for our community church, Saint Michael Church in Dire Dawa, Ethiopia.[coming soon](https://)**<br>
+**📚:I'm currently learning Improving Android development skills.**</p>
 
 ###
+# Hi there! 👋
+
+## 🔭  I’m currently working on:
+
+1. **Saint Michael Church Website:**
+   - Working on a website for our community church, Saint Michael Church in Dire Dawa.
+
+## 📚 I'm currently learning:
+
+- **PHP**: Improving backend development skills.
+
+## 🔙 Previous Work:
+
+1. **Goro Health Center Website:**
+   - Developed the first health center website in Dire Dawa, Ethiopia. [Visit Website](https://www.ghcdd.gov.et/)
+
+## 📫 How to reach me:
+
+Feel free to connect with me through the following channels:
+
+- **[Telegram](https://t.me/yourtelegramusername)**
+- **[Instagram](https://www.instagram.com/yourinstagramusername)**
+- **[Gmail](mailto:yonasgir0@gmail.com)**
+- **[Call Me](tel:+251949481292)**
+
+
 
 <h3 align="left">🛠 Language and tools</h3>
 
