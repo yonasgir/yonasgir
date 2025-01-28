@@ -6,7 +6,10 @@
 
 ###
 
-<p align="left">🔙:Developed the first health center website in Dire Dawa, Ethiopia.Goro Health Center Website:<br>🔭:Working on a website for our community church, Saint Michael Church in Dire Dawa, Ethiopia.coming soon:<br>📚:I'm currently learning Improving Android development skills.:</p>
+<p align="left">
+**🔙:Developed the first health center website in Dire Dawa, Ethiopia.Goro Health Center Website:**<br>
+**🔭:Working on a website for our community church, Saint Michael Church in Dire Dawa, Ethiopia.coming soon:**<br>
+**📚:I'm currently learning Improving Android development skills.:**</p>
 
 ###
 
