@@ -1,7 +1,6 @@
 
-<img src="https://github.com/yonasgir/yonasgir/blob/main/matrix.gif" alt="Matrix GIF" width="100%" height="300" loop="true">
+<img src="https://github.com/yonasgir/yonasgir/blob/main/matrix.gif" alt="Matrix GIF" width="100%" height="200" loop="true">
 <div align="center">
-  <h1 class="typing-effect">Hi 👋 I'm Yonas Girma</h1>
 </div>
 
 ---
@@ -10,8 +9,7 @@
 
 - **🔙**: Developed the first health center website in Dire Dawa, Ethiopia. [Goro Health Center Website](https://www.ghcdd.gov.et/)
 - **🔭**: Currently working on a website for our community church, Saint Michael Church in Dire Dawa, Ethiopia. [Coming soon](#)
-**Reach me at**: [yonasgir0@gmail.com](mailto:yonasgir0@gmail.com)
----
+- **Reach me at**: 📧 [yonasgir0@gmail.com](mailto:yonasgir0@gmail.com)
 ---
 
 ## Languages and Tools
