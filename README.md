@@ -41,25 +41,40 @@
 
 ---
 
-##  Social
+## Social
 
 <div align="center">
   <a href="https://www.linkedin.com/in/yonas-girma" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn logo" />
   </a>
-  <a href="https://t.me/YonasGirma" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&style=for-the-badge" height="25" alt="telegram logo" />
+  <a href="https://t.me/yonigirmaa" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&style=for-the-badge" height="25" alt="Telegram logo" />
   </a>
-  <a href="https://instagram.com/yonas_girma" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" alt="instagram logo" />
+  <a href="https://instagram.com/yonigirmaa" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" alt="Instagram logo" />
   </a>
-  <a href="https://wa.me/+251900000000" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" height="25" alt="whatsapp logo" />
+  <a href="https://wa.me/251949481292" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" height="25" alt="WhatsApp logo" />
   </a>
 </div>
 
+
 ###
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yonasgir)](https://github.com/yonasgir/github-readme-stats)
+<div align="center">
+
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=yonasgir&show_icons=true&theme=gruvbox" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yonasgir&layout=compact&theme=gruvbox" />
+      </td>
+    </tr>
+  </table>
+
+</div>
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=yonasgir&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
