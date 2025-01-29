@@ -1,3 +1,6 @@
+
+![Matrix GIF](https://github.com/yonasgir/yonasgir/blob/main/matrix.gif)
+
 <div align="center">
   <h1 class="typing-effect">Hi 👋 I'm Yonas Girma</h1>
 </div>
