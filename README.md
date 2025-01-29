@@ -1,5 +1,5 @@
 
-<img src="https://github.com/yonasgir/yonasgir/blob/main/matrixx.gif" alt="Matrix GIF" width="100%" height="400" loop="true">
+<img src="https://github.com/yonasgir/yonasgir/blob/main/matrixx.gif" alt="Matrix GIF" width="100%" height="300" loop="true">
 
 <div align="center">
 </div>
