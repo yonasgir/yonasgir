@@ -1,6 +1,5 @@
 
-<img src="https://github.com/yonasgir/yonasgir/blob/main/matrix.gif" alt="Matrix GIF" width="600" height="300">
-
+<img src="https://github.com/yonasgir/yonasgir/blob/main/matrix.gif" alt="Matrix GIF" width="100%" height="auto" loop="true">
 <div align="center">
   <h1 class="typing-effect">Hi 👋 I'm Yonas Girma</h1>
 </div>
