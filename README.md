@@ -1,5 +1,5 @@
 
-![Matrix GIF](https://github.com/yonasgir/yonasgir/blob/main/matrix.gif)
+<img src="https://github.com/yonasgir/yonasgir/blob/main/matrix.gif" alt="Matrix GIF" width="600" height="300">
 
 <div align="center">
   <h1 class="typing-effect">Hi 👋 I'm Yonas Girma</h1>
