@@ -6,15 +6,15 @@
 
 ---
 
-## 👩‍💻 About Me
+## About
 
 - **🔙**: Developed the first health center website in Dire Dawa, Ethiopia. [Goro Health Center Website](https://www.ghcdd.gov.et/)
 - **🔭**: Currently working on a website for our community church, Saint Michael Church in Dire Dawa, Ethiopia. [Coming soon](#)
-- **📚**: I'm currently improving my Android development skills.
-
+**Reach me at**: [yonasgir0@gmail.com](mailto:yonasgir0@gmail.com)
+---
 ---
 
-## 🛠 Languages and Tools
+## Languages and Tools
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
@@ -42,7 +42,7 @@
 
 ---
 
-## 🔗 Connect with Me
+##  Social
 
 <div align="center">
   <a href="https://www.linkedin.com/in/yonas-girma" target="_blank">
